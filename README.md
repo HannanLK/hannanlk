@@ -1,6 +1,6 @@
 # Hannan Munas | Software Engineering Undergraduate
 
-👋 Hi there! I'm Hannan Munas, a passionate Software Engineering undergraduate with a keen interest in building innovative solutions and contributing to open-source projects. Welcome to my GitHub profile!
+👋 Hi there! I'm Hannan Munas, a passionate Software Engineering undergraduate skilled in PHP, MySQL, Flutter, C#, and data structures, with hands-on experience in full-stack development. I have built scalable web applications, including a PWA for agricultural wastage reduction using React and Node.js, and an e-commerce platform with Laravel and REST APIs. I thrive in collaborative environments, solving real-world problems through innovative software solutions. Eager to contribute to impactful development projects.
 
 ---
 
