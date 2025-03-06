@@ -18,12 +18,6 @@ Here are the languages and tools I work with:
 
 ---
 
-## 🔥 Streak Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hannanlk&theme=radical)
-
----
-
 ## 🏆 Badges
 
 Here are some badges to highlight my skills and achievements:
