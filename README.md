@@ -1,4 +1,9 @@
 # Hannan Munas | Software Engineering Undergraduate
+Aspiring software engineering student eager to explore new technologies and tackle real-world
+challenges. I thrive in full-stack development, contributing to both frontend and backend solutions
+while continuously expanding my knowledge. With strategic thinking and adaptability, I embrace
+innovation and seek opportunities to refine my skills. A quick learner with a proactive mindset, I am
+committed to continuous growth and making a meaningful impact in the ever-evolving tech industry.
 
 ---
 
